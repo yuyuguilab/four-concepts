@@ -1,0 +1,61 @@
+{
+  "title": "Four Concepts, Four Types: Levels, Boundaries, and a Translation Protocol for Intelligence, Human Intelligence, Artificial Intelligence, and AGI（四个概念，四种类型：智能、人类智能、人工智能、通用人工智能的层次、边界与转译协议）",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "<p>This repository contains the manuscript (Chinese primary edition and English edition, LaTeX + PDF) and bibliographies for a concept analysis of the four central terms of the AGI debate. The paper advances three claims. (1) A typology: the four terms are four different concept types — intelligence is a capacity concept, human intelligence a sample concept, artificial intelligence an artifact concept, and AGI a reference-frame concept; each type has a different form of \"completed definition\", and the popular narrow–general–super ladder is a narrative device that strings four concept types on a single line. (2) A layered structure: within each concept, distinguish the ontological layer (what it is), the epistemic layer (what evidence supports attributing it to a system), and the methodological layer (what procedure detects it); the chronic root of definitional disputes is three illicit slides — operationalism (measurement passing as definition), the mereological fallacy (mechanism passing as the location of a capacity), and criterion promotion (artifact criteria passing as conceptual content), each diagnosed on verbatim quotations graded by assertion strength. (3) A translation protocol: a table mapping six kinds of engineering observations (circuit ablations, probes, feature-space geometry, benchmark scores, economic-substitution task sets, training phase transitions) to the conceptual claims they license, each row with conditions of validity, governed by three general rules (attribution preservation, conditions travel, layer placement) and a catalogue of four illicit forms (locational, part-whole misattribution, promotion, universalization). The paper closes with the four terms' positions in the human-referential theory of AGI, falsifiability clauses, and an appendix mapping the argument onto the Chinese-language context (terminology history, policy vocabulary drift, interlocutor locations).</p>",
+  "creators": [
+    {
+      "name": "Yugui Yu",
+      "affiliation": "YYG Strategy Lab"
+    }
+  ],
+  "keywords": [
+    "intelligence definitions",
+    "AGI definitions",
+    "concept typology",
+    "construct validity",
+    "operationalism",
+    "mereological fallacy",
+    "mechanistic interpretability",
+    "benchmark evaluation",
+    "translation protocol",
+    "human-referential fitting theory",
+    "AGI",
+    "人本拟合论",
+    "四个概念",
+    "转译协议",
+    "概念类型"
+  ],
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/yuyuguilab/four-concepts",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "10.5281/zenodo.23391808",
+      "relation": "references",
+      "resource_type": "publication"
+    },
+    {
+      "identifier": "10.5281/zenodo.24031505",
+      "relation": "references",
+      "resource_type": "publication"
+    },
+    {
+      "identifier": "10.5281/zenodo.23969048",
+      "relation": "references",
+      "resource_type": "publication"
+    },
+    {
+      "identifier": "https://yuyuguilab.github.io/",
+      "relation": "references",
+      "resource_type": "publication"
+    }
+  ],
+  "notes": "Chinese primary edition (paper_zh) and English edition (paper_en) are parallel translations; Chinese-language bibliography entries in the English edition follow sinological convention (pinyin authors, translated titles, [in Chinese] tag). Author contact: they4897@gmail.com. Related research program: A Human-Referential Theory of AGI (DOI 10.5281/zenodo.23391808), Fitting the Practice: A Data Methodology for Frontier Model Training (DOI 10.5281/zenodo.24031505), Two Different Goals: Dissociating the Machine Mind from Artificial Intelligence (DOI 10.5281/zenodo.23969048).",
+  "version": "v1.0.0"
+}
