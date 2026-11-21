@@ -1,5 +1,7 @@
 **English** | [简体中文](README.zh-CN.md)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24096361.svg)](https://doi.org/10.5281/zenodo.24096361)
+
 # Four Concepts, Four Types: Levels, Boundaries, and a Translation Protocol for Intelligence, Human Intelligence, Artificial Intelligence, and AGI
 
 *Yugui Yu · YYG Strategy Lab · they4897@gmail.com*
@@ -30,4 +32,4 @@ The four terms do not sit on one ladder: intelligence asks for measurement; huma
 
 ## Cite
 
-Yugui Yu (2026). *Four Concepts, Four Types: Levels, Boundaries, and a Translation Protocol for Intelligence, Human Intelligence, Artificial Intelligence, and AGI*. v1.0.0. https://github.com/yuyuguilab/four-concepts
+Yugui Yu (2026). *Four Concepts, Four Types: Levels, Boundaries, and a Translation Protocol for Intelligence, Human Intelligence, Artificial Intelligence, and AGI*. v1.0.1. doi:[10.5281/zenodo.24096361](https://doi.org/10.5281/zenodo.24096361) (concept DOI; resolves to the latest version) · [GitHub](https://github.com/yuyuguilab/four-concepts)

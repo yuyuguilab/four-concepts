@@ -6,7 +6,8 @@
   "creators": [
     {
       "name": "Yugui Yu",
-      "affiliation": "YYG Strategy Lab"
+      "affiliation": "YYG Strategy Lab",
+      "orcid": "https://orcid.org/0009-0001-7217-4179"
     }
   ],
   "keywords": [
@@ -57,5 +58,5 @@
     }
   ],
   "notes": "Chinese primary edition (paper_zh) and English edition (paper_en) are parallel translations; Chinese-language bibliography entries in the English edition follow sinological convention (pinyin authors, translated titles, [in Chinese] tag). Author contact: they4897@gmail.com. Related research program: A Human-Referential Theory of AGI (DOI 10.5281/zenodo.23391808), Fitting the Practice: A Data Methodology for Frontier Model Training (DOI 10.5281/zenodo.24031505), Two Different Goals: Dissociating the Machine Mind from Artificial Intelligence (DOI 10.5281/zenodo.23969048).",
-  "version": "v1.0.0"
+  "version": "v1.0.1"
 }

@@ -1,5 +1,7 @@
 [English](README.md) | **简体中文**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24096361.svg)](https://doi.org/10.5281/zenodo.24096361)
+
 # 四个概念，四种类型：智能、人类智能、人工智能、通用人工智能的层次、边界与转译协议
 
 *余玉桂 · 余玉桂战略研究室 · they4897@gmail.com*
@@ -24,4 +26,4 @@
 
 ## 引用
 
-余玉桂（2026）。《四个概念，四种类型：智能、人类智能、人工智能、通用人工智能的层次、边界与转译协议》。v1.0.0。https://github.com/yuyuguilab/four-concepts
+余玉桂（2026）。《四个概念，四种类型：智能、人类智能、人工智能、通用人工智能的层次、边界与转译协议》。v1.0.1。doi:[10.5281/zenodo.24096361](https://doi.org/10.5281/zenodo.24096361)（概念 DOI，解析到最新版本）· [GitHub](https://github.com/yuyuguilab/four-concepts)
